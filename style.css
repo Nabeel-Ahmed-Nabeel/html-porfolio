@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: black;
+    color:aliceblue;
+    font-family: "Raleway",sans-serif;
+}
+h1{
+    font-family: "Tektur",sans-serif;
+    font-size: 170px;
+}
+h2{
+    font-weight: 700;
+    font-size: 60px;
+}
+img{
+    border-radius: 350px;
+    height:500px;
+    width:500px;
+}
+a{
+    color:white;
+}
+h3:hover {
+    color:#9a3dd9;
+}
